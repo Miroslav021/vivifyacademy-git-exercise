@@ -1,1 +1,2 @@
 console.log('script 1');
+console.log('script 2'); //novi comment
